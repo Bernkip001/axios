@@ -1,0 +1,8 @@
+DARAJA_CONSUMER_KEY=your_consumer_key
+DARAJA_CONSUMER_SECRET=your_consumer_secret
+MPESA_SHORTCODE=600XXX
+MPESA_INITIATOR_NAME=testapi
+MPESA_INITIATOR_PASSWORD=base64_encoded_password
+MPESA_SECURITY_CREDENTIALS=encrypted_password
+MPESA_B2C_URL=https://sandbox.safaricom.co.ke/mpesa/b2c/v1/paymentrequest
+MPESA_CALLBACK_URL=https://yourdomain.com/api/payment/callback
